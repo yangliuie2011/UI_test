@@ -1,0 +1,8 @@
+2020-12-29 19:25:11,516 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-12-29 19:25:11,516 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-12-29 19:25:17,023 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-12-29 19:25:20,086 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-12-29 19:26:15,968 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-12-29 19:26:15,968 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-12-29 19:26:20,620 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-12-29 19:26:23,687 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.

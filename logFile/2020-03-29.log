@@ -1,0 +1,698 @@
+2020-03-29 11:17:57,975 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 11:17:57,975 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 11:18:25,209 - openDriver.py - [line:20] - INFO - You had select firefox browser.
+2020-03-29 11:18:25,210 - openDriver.py - [line:32] - INFO - Starting firefox browser.
+2020-03-29 11:28:07,226 - openDriver.py - [line:22] - INFO - You had select chrome_headless browser.
+2020-03-29 11:28:07,226 - openDriver.py - [line:46] - INFO - Starting Chrome headless browser.
+2020-03-29 11:33:06,042 - openDriver.py - [line:22] - INFO - You had select chrome_headless browser.
+2020-03-29 11:33:06,042 - openDriver.py - [line:47] - INFO - Starting Chrome headless browser.
+2020-03-29 11:33:11,379 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:33:12,790 - webdriverApi.py - [line:127] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:33:49,675 - openDriver.py - [line:22] - INFO - You had select chrome_headless browser.
+2020-03-29 11:33:49,675 - openDriver.py - [line:47] - INFO - Starting Chrome headless browser.
+2020-03-29 11:33:55,019 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:33:56,347 - webdriverApi.py - [line:127] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:33:56,577 - webdriverApi.py - [line:480] - INFO - Test case is failed, keep a screenshot: /screenshots + 202003291133
+2020-03-29 11:33:58,668 - webdriverApi.py - [line:277] - INFO - Quit the driver and close all the windows.
+2020-03-29 11:45:50,624 - openDriver.py - [line:22] - INFO - You had select chrome_headless browser.
+2020-03-29 11:45:50,624 - openDriver.py - [line:47] - INFO - Starting Chrome headless browser.
+2020-03-29 11:45:55,989 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:45:57,382 - webdriverApi.py - [line:127] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:45:57,382 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 11:45:57,425 - webdriverApi.py - [line:74] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 11:45:57,544 - webdriverApi.py - [line:158] - INFO -  Input text selenium to id=>kw element.
+2020-03-29 11:45:57,791 - webdriverApi.py - [line:480] - INFO - Test case is failed, keep a screenshot: /screenshots + 202003291145
+2020-03-29 11:45:59,890 - webdriverApi.py - [line:277] - INFO - Quit the driver and close all the windows.
+2020-03-29 11:46:18,439 - openDriver.py - [line:22] - INFO - You had select chrome browser.
+2020-03-29 11:46:18,439 - openDriver.py - [line:37] - INFO - Starting Chrome browser.
+2020-03-29 11:46:24,057 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:46:25,738 - webdriverApi.py - [line:127] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:46:25,738 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 11:46:25,781 - webdriverApi.py - [line:74] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 11:46:25,923 - webdriverApi.py - [line:158] - INFO -  Input text selenium to id=>kw element.
+2020-03-29 11:46:26,323 - webdriverApi.py - [line:480] - INFO - Test case is failed, keep a screenshot: /screenshots + 202003291146
+2020-03-29 11:46:28,588 - webdriverApi.py - [line:277] - INFO - Quit the driver and close all the windows.
+2020-03-29 11:48:07,343 - openDriver.py - [line:22] - INFO - You had select chrome browser.
+2020-03-29 11:48:07,344 - openDriver.py - [line:37] - INFO - Starting Chrome browser.
+2020-03-29 11:48:12,986 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:48:14,470 - webdriverApi.py - [line:127] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:48:14,470 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 11:53:23,475 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 11:53:23,475 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 11:53:23,477 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 11:53:23,477 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 11:53:29,420 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:53:29,420 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 11:53:30,883 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:53:30,883 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 11:53:31,230 - webdriverApi.py - [line:466] - INFO - Had take screenshot and save to folder : /screenshots + 202003291153
+2020-03-29 11:53:31,230 - webdriverApi.py - [line:466] - INFO - Had take screenshot and save to folder : /screenshots + 202003291153
+2020-03-29 11:53:33,488 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 11:53:33,488 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 12:00:22,997 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 12:00:22,997 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 12:00:22,999 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 12:00:22,999 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 12:00:28,655 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 12:00:28,655 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 12:00:30,446 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 12:00:30,446 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 12:00:30,863 - webdriverApi.py - [line:466] - INFO - Had take screenshot and save to folder : /screenshots + 202003291200
+2020-03-29 12:00:30,863 - webdriverApi.py - [line:466] - INFO - Had take screenshot and save to folder : /screenshots + 202003291200
+2020-03-29 12:00:33,133 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 12:00:33,133 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 12:07:08,940 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 12:07:08,940 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 12:07:14,654 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 12:07:16,035 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 12:07:16,386 - webdriverApi.py - [line:466] - INFO - Had take screenshot and save to folder : /screenshots + 202003291207
+2020-03-29 12:07:18,615 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:19:07,316 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 15:19:07,317 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 15:19:13,064 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:19:14,579 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:19:14,581 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:14,630 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:19:14,771 - webdriverApi.py - [line:161] - INFO -  Input text ÑîÃÝ Îº´óÑ« to id=>kw element.
+2020-03-29 15:19:14,772 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:14,814 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:19:14,902 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:19:14,903 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:19:15,322 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:19:15,323 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:15,411 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:19:15,681 - webdriverApi.py - [line:161] - INFO -  Input text ÑîÃÝ ÁõâýÍþ to id=>kw element.
+2020-03-29 15:19:15,683 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:15,749 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:19:15,884 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:19:15,885 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:19:17,071 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:19:17,071 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:17,107 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:19:17,300 - webdriverApi.py - [line:161] - INFO -  Input text Ð»öª·æ ÑîÃÝ to id=>kw element.
+2020-03-29 15:19:17,302 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:17,372 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:19:17,436 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:19:17,437 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:19:18,492 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:19:18,493 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:18,525 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:19:18,648 - webdriverApi.py - [line:161] - INFO -  Input text ÕÅÒ»É½ Ñî×Ï to id=>kw element.
+2020-03-29 15:19:18,649 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:18,674 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:19:18,760 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:19:18,760 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:19:19,782 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:19:19,782 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:19,853 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:19:24,423 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:19:24,933 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:19:24,934 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:19:24,973 - webdriverApi.py - [line:105] - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:19:25,955 - webdriverApi.py - [line:204] - INFO - Click the element xpath=>//*[@id="u1"]/a[2].
+2020-03-29 15:19:25,955 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:19:28,817 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:21:40,362 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 15:21:40,362 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 15:21:46,042 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:21:47,620 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:21:47,622 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:47,667 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:21:47,799 - webdriverApi.py - [line:161] - INFO -  Input text ÑîÃÝ Îº´óÑ« to id=>kw element.
+2020-03-29 15:21:47,800 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:47,833 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:21:47,926 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:21:47,927 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:21:48,199 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:21:48,200 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:48,237 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:21:48,355 - webdriverApi.py - [line:161] - INFO -  Input text ÑîÃÝ ÁõâýÍþ to id=>kw element.
+2020-03-29 15:21:48,356 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:48,385 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:21:48,442 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:21:48,443 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:21:49,371 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:21:49,372 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:49,424 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:21:49,531 - webdriverApi.py - [line:161] - INFO -  Input text Ð»öª·æ ÑîÃÝ to id=>kw element.
+2020-03-29 15:21:49,532 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:49,562 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:21:49,638 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:21:49,638 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:21:50,653 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:21:50,654 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:50,684 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:21:50,784 - webdriverApi.py - [line:161] - INFO -  Input text ÕÅÒ»É½ Ñî×Ï to id=>kw element.
+2020-03-29 15:21:50,784 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:50,816 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:21:50,893 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:21:50,894 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:21:51,392 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:21:51,393 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:51,440 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:21:56,786 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:21:57,204 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:21:57,206 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:21:57,251 - webdriverApi.py - [line:105] - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:21:58,428 - webdriverApi.py - [line:204] - INFO - Click the element xpath=>//*[@id="u1"]/a[2].
+2020-03-29 15:21:58,428 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:22:01,599 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:25:33,512 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 15:25:33,513 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 15:25:39,277 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:25:40,840 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:25:40,845 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:40,899 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:25:41,155 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:25:41,156 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:41,185 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:25:41,242 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:25:41,242 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:25:41,512 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:25:41,513 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:41,547 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:25:41,663 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:25:41,664 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:41,686 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:25:41,777 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:25:41,777 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:25:42,659 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:25:42,660 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:42,694 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:25:42,802 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:25:42,803 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:42,829 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:25:42,892 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:25:42,892 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:25:44,086 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:25:44,087 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:44,135 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:25:49,344 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:25:50,503 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:25:50,504 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:25:50,559 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:25:53,682 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:26:41,370 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:26:41,371 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:26:44,059 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:26:44,961 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:26:44,963 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:45,420 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:26:45,814 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:26:45,815 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:46,267 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:26:46,310 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:26:46,310 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:26:47,294 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:26:47,295 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:47,750 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:26:48,020 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:26:48,021 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:48,443 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:26:48,483 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:26:48,483 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:26:49,125 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:26:49,126 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:49,583 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:26:49,868 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:26:49,869 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:50,320 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:26:50,358 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:26:50,358 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:26:50,898 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:26:50,901 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:51,413 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:26:51,477 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:26:52,344 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:26:52,346 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:26:52,835 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:26:54,077 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:36:24,687 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:36:24,688 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:36:27,787 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:36:28,339 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:36:28,342 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:28,798 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:36:29,162 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:36:29,163 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:29,609 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:36:29,652 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:36:29,652 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:36:30,187 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:36:30,190 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:30,628 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:36:30,907 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:36:30,908 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:31,376 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:36:31,406 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:36:31,406 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:36:31,933 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:36:31,935 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:32,385 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:36:32,666 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:36:32,666 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:33,101 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:36:33,131 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:36:33,131 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:36:33,649 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:36:33,651 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:34,155 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:36:34,213 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:36:35,071 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:36:35,072 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:36:35,522 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:36:36,560 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:38:50,978 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:38:50,979 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:38:53,204 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:38:53,794 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:38:53,797 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:38:54,269 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:38:54,631 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:38:54,634 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:38:55,223 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:38:55,298 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:38:57,300 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:38:57,802 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:38:57,803 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:38:58,251 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:38:58,510 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:38:58,511 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:38:58,934 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:38:58,973 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:39:00,974 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:39:01,507 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:39:01,509 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:39:01,957 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:39:02,228 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:39:02,229 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:39:02,659 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:39:02,696 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:39:04,697 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:39:05,208 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:39:05,210 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:39:05,690 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:39:05,745 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:39:06,475 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:39:06,476 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:39:06,919 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:39:08,422 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:40:53,665 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:40:53,665 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:40:55,951 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:40:56,571 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:40:56,573 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:40:57,064 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:40:57,436 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:40:57,437 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:40:57,978 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:40:58,057 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:41:00,058 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:41:00,569 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:41:00,571 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:41:01,021 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:41:01,280 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:41:01,286 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:41:01,720 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:41:01,763 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:41:03,764 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:41:04,268 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:41:04,270 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:41:04,757 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:41:05,021 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:41:05,021 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:41:05,451 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:41:05,479 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:41:07,480 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:41:07,982 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:41:07,988 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:41:08,460 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:41:08,522 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:41:09,212 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:41:09,214 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:41:09,674 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:41:10,801 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:42:51,962 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:42:51,962 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:42:54,179 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:42:54,786 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:42:54,791 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:42:55,256 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:42:55,654 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:42:55,656 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:42:56,158 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:42:56,240 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:42:58,241 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:42:58,793 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:42:58,794 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:42:59,251 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:42:59,520 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:42:59,521 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:42:59,968 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:43:00,042 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:43:02,043 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:43:02,611 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:43:02,612 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:43:03,079 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:43:03,334 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:43:03,335 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:43:03,774 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:43:03,820 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:43:05,821 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:43:06,245 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:43:06,246 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:43:06,697 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:43:06,751 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:43:07,389 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:43:07,390 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:43:07,892 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:43:08,900 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:45:59,133 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:45:59,133 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:46:01,273 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:46:24,273 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:46:24,273 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:46:26,361 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:46:26,896 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:46:26,899 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:27,352 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:46:27,729 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:46:27,730 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:28,318 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:46:28,381 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:46:30,381 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:46:30,443 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:46:30,927 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:46:30,928 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:31,370 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:46:31,627 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:46:31,628 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:32,068 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:46:32,117 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:46:34,118 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:46:34,159 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:46:34,668 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:46:34,669 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:35,124 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:46:35,378 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:46:35,379 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:35,813 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:46:35,835 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:46:37,836 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:46:37,877 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:46:38,300 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:46:38,301 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:38,750 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:46:38,799 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:46:39,363 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:46:39,364 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:46:39,810 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:46:40,311 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:47:05,196 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:47:05,196 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:47:08,240 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:47:46,961 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:47:46,962 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:47:49,549 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:47:56,657 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:47:59,011 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:47:59,467 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:47:59,894 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:47:59,896 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:48:00,554 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:48:00,611 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:48:29,316 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:49:20,161 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:49:20,162 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:49:22,559 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:49:30,675 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:49:31,580 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:49:32,026 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:49:32,417 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:49:32,419 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:49:32,919 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:49:32,974 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:49:44,419 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:51:52,025 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:51:52,025 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:51:54,756 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:51:58,269 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:51:58,999 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:51:59,473 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:51:59,843 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:51:59,845 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:52:00,377 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:52:00,425 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:52:12,071 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:52:29,871 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:52:29,872 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:52:32,543 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:52:38,455 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:52:39,110 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:52:39,557 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:52:39,906 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:52:39,908 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:52:40,506 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:52:40,568 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:53:08,195 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:56:14,777 - openDriver.py - [line:20] - INFO - You had select edge browser.
+2020-03-29 15:56:14,778 - openDriver.py - [line:49] - INFO - Starting Edge browser.
+2020-03-29 15:56:17,625 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:56:18,202 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:56:18,205 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:18,658 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:56:18,991 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:56:18,992 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:19,505 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:56:19,579 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:56:21,579 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:56:22,000 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:56:22,001 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:22,441 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:56:22,705 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:56:22,708 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:23,132 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:56:23,176 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:56:25,177 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:56:25,597 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:56:25,597 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:26,052 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:56:26,325 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:56:26,326 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:26,754 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:56:26,782 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:56:28,783 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:56:29,220 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:56:29,221 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:29,679 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:56:29,736 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:56:30,362 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:56:30,363 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:56:30,812 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:56:31,823 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:57:19,505 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 15:57:19,505 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 15:57:25,074 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:57:26,613 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:57:26,615 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:26,675 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:57:26,898 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:57:26,899 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:26,925 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:57:27,001 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:57:29,002 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:57:29,270 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:57:29,271 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:29,297 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:57:29,413 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:57:29,413 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:29,441 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:57:29,524 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:57:31,525 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:57:31,793 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:57:31,795 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:31,829 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:57:31,918 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:57:31,919 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:31,944 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:57:32,006 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:57:34,007 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:57:34,345 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:57:34,346 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:34,460 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:57:38,696 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:57:39,162 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:57:39,164 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:57:39,205 - webdriverApi.py - [line:105] - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:57:40,097 - webdriverApi.py - [line:204] - INFO - Click the element xpath=>//*[@id="u1"]/a[2].
+2020-03-29 15:57:42,098 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:57:44,400 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 15:58:19,035 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 15:58:19,035 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 15:58:24,630 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 15:58:26,104 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:58:26,106 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:26,148 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:58:26,413 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 15:58:26,414 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:26,444 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:58:26,525 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:58:28,526 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:58:28,830 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:58:28,830 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:28,962 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:58:29,093 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 15:58:29,094 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:29,123 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:58:29,189 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:58:31,189 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:58:31,490 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:58:31,491 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:31,528 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 15:58:31,632 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 15:58:31,633 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:31,662 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 15:58:31,733 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 15:58:33,734 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:58:34,000 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 15:58:34,001 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:34,048 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 15:58:38,818 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 15:58:39,211 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 15:58:39,213 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 15:58:39,246 - webdriverApi.py - [line:105] - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 15:58:40,108 - webdriverApi.py - [line:204] - INFO - Click the element xpath=>//*[@id="u1"]/a[2].
+2020-03-29 15:58:42,108 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 15:58:44,373 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:03:52,205 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:03:52,205 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:03:57,912 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:03:58,683 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 16:03:58,683 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:03:59,210 - webdriverApi.py - [line:466] - INFO - Had take screenshot and save to folder : /screenshots + 202003291603
+2020-03-29 16:04:01,793 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:07:14,268 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:07:14,268 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:07:20,084 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:07:21,787 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 16:07:23,787 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:07:26,566 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:08:32,478 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:08:32,478 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:08:38,595 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:08:40,257 - webdriverApi.py - [line:130] - INFO - Open url: http://www.baidu.com
+2020-03-29 16:08:42,258 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:08:44,609 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:09:32,000 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:09:32,001 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:09:37,776 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:09:39,210 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:09:39,213 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:39,269 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:09:39,474 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 16:09:39,475 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:39,502 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:09:39,568 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:09:41,569 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:09:41,799 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:09:41,800 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:41,851 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:09:41,982 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 16:09:41,983 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:42,007 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:09:42,081 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:09:44,081 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:09:44,305 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:09:44,306 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:44,362 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:09:44,470 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 16:09:44,471 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:44,502 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:09:44,604 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:09:46,605 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:09:46,883 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:09:46,884 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:46,935 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 16:09:51,876 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 16:09:52,815 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 16:09:52,816 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:09:52,847 - webdriverApi.py - [line:105] - INFO - Had find the element '  ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 16:09:55,796 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:10:40,373 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:10:40,374 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:10:46,007 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:10:47,645 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:10:47,647 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:47,702 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:10:47,956 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 16:10:47,957 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:47,985 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:10:48,060 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:10:50,061 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:10:50,342 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:10:50,343 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:50,373 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:10:50,511 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 16:10:50,512 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:50,552 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:10:50,655 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:10:52,655 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:10:52,942 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:10:52,942 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:52,984 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:10:53,117 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 16:10:53,118 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:53,155 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:10:53,243 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:10:55,243 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:10:55,555 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:10:55,555 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:10:55,600 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 16:11:00,474 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 16:11:00,916 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 16:11:00,917 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:11:00,952 - webdriverApi.py - [line:105] - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 16:11:01,905 - webdriverApi.py - [line:204] - INFO - Click the element xpath=>//*[@id="u1"]/a[2].
+2020-03-29 16:11:03,906 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:11:07,080 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:49:39,183 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:49:39,183 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:49:44,796 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:49:44,808 - openDriver.py - [line:20] - INFO - You had select chrome browser.
+2020-03-29 16:49:44,808 - openDriver.py - [line:35] - INFO - Starting Chrome browser.
+2020-03-29 16:49:50,376 - webdriverApi.py - [line:27] - INFO - Init a WebDriver.
+2020-03-29 16:49:51,961 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:49:51,963 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:52,009 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:49:52,375 - webdriverApi.py - [line:161] - INFO -  Input text unittest selenium to id=>kw element.
+2020-03-29 16:49:52,376 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:52,409 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:49:52,546 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:49:54,547 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:49:54,797 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:49:54,798 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:54,829 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:49:54,940 - webdriverApi.py - [line:161] - INFO -  Input text ±±¾© ·ÎÑ× to id=>kw element.
+2020-03-29 16:49:54,941 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:54,967 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:49:55,060 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:49:57,060 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:49:57,308 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:49:57,309 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:57,335 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: kw 
+2020-03-29 16:49:57,418 - webdriverApi.py - [line:161] - INFO -  Input text ´óÅô ÁøÑÒ to id=>kw element.
+2020-03-29 16:49:57,418 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:57,445 - webdriverApi.py - [line:77] - INFO - Had find the element '  ' successful by id via value: su 
+2020-03-29 16:49:57,504 - webdriverApi.py - [line:204] - INFO - Click the element id=>su.
+2020-03-29 16:49:59,504 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:49:59,934 - webdriverApi.py - [line:130] - INFO - Open url: https://www.baidu.com
+2020-03-29 16:49:59,935 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:49:59,977 - webdriverApi.py - [line:98] - INFO - Had find the element ' hao123 ' successful by link_text via value: hao123 
+2020-03-29 16:50:03,800 - webdriverApi.py - [line:204] - INFO - Click the element link_text=>hao123.
+2020-03-29 16:50:04,163 - webdriverApi.py - [line:494] - INFO - Click back on current page.
+2020-03-29 16:50:04,165 - webdriverApi.py - [line:33] - INFO - wait for 5 seconds.
+2020-03-29 16:50:04,198 - webdriverApi.py - [line:105] - INFO - Had find the element ' ÐÂÎÅ ' successful by xpath via value: //*[@id="u1"]/a[2] 
+2020-03-29 16:50:05,162 - webdriverApi.py - [line:204] - INFO - Click the element xpath=>//*[@id="u1"]/a[2].
+2020-03-29 16:50:07,163 - webdriverApi.py - [line:363] - INFO - Get page source.
+2020-03-29 16:50:10,453 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
+2020-03-29 16:50:13,698 - webdriverApi.py - [line:280] - INFO - Quit the driver and close all the windows.
